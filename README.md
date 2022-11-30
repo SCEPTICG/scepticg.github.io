@@ -1,6 +1,3 @@
-<html>
-  <body>
-    <h1>PRUEBA</h1>
-  </body>
+#scepticg,github.io
 
-</html>
+Esto es una prueba

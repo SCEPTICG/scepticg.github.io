@@ -1,2 +1,6 @@
-# scepticg.github.io
-Esto es una prueba
+<html>
+  <body>
+    <h1>PRUEBA</h1>
+  </body>
+
+</html>
